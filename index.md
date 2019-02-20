@@ -97,12 +97,12 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
 * 2017
 
   * **Qingling Zhu**, Qiuzhen Lin, Weineng Chen, Ka-Chun Wong, Carlos A. Coello Coello, Jianqiang Li, Jianyong Chen, Jun Zhang. **An external archive-guided multiobjective particle swarm optimization algorithm.** IEEE Transactions on Cybernetics, 2017, 47(9): 2794-2808.
-    * The source code can be downloaded from <a href="https://github.com/zhuqingling/zhuqingling.github.io/blob/master/sourcecode/AgMOPSO.rar">here</a>.<!-- [(pdf)](pdf/1by1EA.pdf)-->
+    * The source code can be downloaded from <a href="https://github.com/zhuqingling/zhuqingling.github.io/blob/master/sourcecode/AgMOPSO.rar?raw=true">here</a>.<!-- [(pdf)](pdf/1by1EA.pdf)-->
 
 * 2016
 
   * **Qingling Zhu**, Qiuzhen Lin, Zhihua Du, Zhengping Liang, Wenjun Wang, Zhexuan Zhu, Jianyong Chen, Peizhi Huang, Zhong Ming. **A novel adaptive hybrid crossover operator for multiobjective evolutionary algorithm.** Information Science, 2016, 345:177-198.
-    * The source code can be downloaded from <a href="https://github.com/zhuqingling/zhuqingling.github.io/blob/master/sourcecode/ADE_MOIA.rar">here</a>.
+    * The source code can be downloaded from <a href="https://github.com/zhuqingling/zhuqingling.github.io/blob/master/sourcecode/ADE_MOIA.rar?raw=true">here</a>.
 
 * 2015
 
