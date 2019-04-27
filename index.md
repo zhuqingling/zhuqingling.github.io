@@ -61,7 +61,7 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
 * 2016
 
   * **Qingling Zhu**, Qiuzhen Lin, Zhihua Du, Zhengping Liang, Wenjun Wang, Zhexuan Zhu, Jianyong Chen, Peizhi Huang, Zhong Ming. **A novel adaptive hybrid crossover operator for multiobjective evolutionary algorithm.** Information Science, 2016, 345:177-198.
-    * The source code can be downloaded from <a href="https://github.com/zhuqingling/zhuqingling.github.io/blob/master/sourcecode/ADE_MOIA.rar?raw=true">here</a>.
+    * The source code can be downloaded from <a href="https://github.com/zhuqingling/ADE-MOIA.git">here</a>.
 
 * 2015
 
