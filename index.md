@@ -43,6 +43,10 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
 
 ### Refereed Journal Papers
 
+* 2019
+  * **Qingling Zhu**, Qingfu Zhang, Qiuzhen Lin, **A Constrained Multiobjective Evolutionary Algorithm with Detect-and-Escape Strategy** Under Review.
+  * **Qingling Zhu**, Qiuzhen Lin, Jianqiang Li, Carlos A. Coello Coello, Jianyong Chen, and Jun Zhang **An Elite Gene Guided Reproduction Operator for Many-objective Optimization**, Under Review.
+  
 * 2018
   
   * Qiuzhen Lin, **Qingling Zhu (corresponding author)**, Na Wang, Peizhi Huang, Wenjun Wang, Jianyong Chen, Zhong Ming. **A multi-objective immune algorithm with dynamic population strategy.** Swarm and Evolutionary Computation, Early Access, DOI:10.1016/j.swevo.2018.12.003.
