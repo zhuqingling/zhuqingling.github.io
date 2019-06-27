@@ -45,6 +45,7 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
 
 * 2019
   * **Qingling Zhu**, Qingfu Zhang, Qiuzhen Lin, **A Constrained Multiobjective Evolutionary Algorithm with Detect-and-Escape Strategy** Under Review.
+  
   * **Qingling Zhu**, Qiuzhen Lin, Jianqiang Li, Carlos A. Coello Coello, Jianyong Chen, and Jun Zhang **An Elite Gene Guided Reproduction Operator for Many-objective Optimization**, Under Review.
   
 * 2018
@@ -73,6 +74,11 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
 
 ### Refereed Conference Papers
 
+* 2019
+
+  * **Qingling Zhu**, Qingfu Zhang, Qiuzhen Lin, Jianyong Sun, **MOEA/D with Two Types of Weight Vectors for Handling Constraints**
+, CEC 2019.
+
 * 2017
 
   * **Qingling Zhu**, Qiuzhen Lin, Jianyong Chen.  **An elite archive-based MOEA/D Algorithm.** Asia-Pacific Conference on Simulated Evolution and Learning (SEAL 2017), 236-247.
@@ -80,5 +86,12 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
 * 2015
   
   * **Qingling Zhu**, Qiuzhen Lin, Jianyong Chen, Peizhi Huang. **A gene-level hybrid crossover operator for multiobjective evolutionary algorithm.** Soft Computing and Machine Intelligence (ISCMI 2015), 20-24.
+  
+## Activities
 
-##### Last update: Dec 13, 2018
+### Reviewer
+  * IEEE Transactions on Evolutionary Computation
+  * Applied Soft Computating
+  * Swarm and Evolutionary Computation
+
+##### Last update: Jue 27, 2019
