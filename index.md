@@ -2,18 +2,18 @@
 layout: default
 ---
 
-## Mr. Qingling Zhu
+## Dr. Qingling Zhu
 <img class="profile-picture" src="ling.png">
 * Position: PhD student
 * Affiliation:
-Department of Computer Science, [City University, Hong Kong](https://www.cityu.edu.hk/)
-* Address: Tat Chee Avenue, Kowloon, Hong Kong SAR
-* E-mail: qlzhu4-c [at] my.cityu.edu.hk; zhuqingling [at] email.szu.edu.cn
+College of Computer Science and Software Engineering, [Shenzhen University, China](https://www.cityu.edu.hk/)
+* Address: 3688 Nanhai Avenue, Nanshan District, Shenzhen
+* E-mail: zhuqingling [at] szu.edu.cn; zhuqingling [at] email.szu.edu.cn
 * [Google Scholar](https://scholar.google.com/citations?user=oN-GBWoAAAAJ&hl=en)
 
 ## Short Biography
 
-I am currently a PhD student at City University in HongKong with [Prof. Qingfu Zhang](http://www.cs.cityu.edu.hk/~qzhan7/index.html). Before that, I received the B.S. degrees in Engineering from Shenzhen University (SZU) in 2016. During 2016 to 2017, I was a Research Assistant at Shenzhen University with [Dr. Qiuzhen Lin](http://csse.szu.edu.cn/csse.szu.edu.cn/cn/people1bbd.html?30298).
+I am currently a Pos Doc at the College of Computer Science and Software Engineering, Shenzhen University (SZU). Before that, I obtained Ph.D degree in City University in HongKong, in July 2021, under the supervision of [Prof. Qingfu Zhang](http://www.cs.cityu.edu.hk/~qzhan7/index.html). In addition, I received the B.S. degrees in Engineering from Shenzhen University (SZU) in 2016. During 2016 to 2017, I was a Research Assistant at Shenzhen University with [Dr. Qiuzhen Lin](http://csse.szu.edu.cn/csse.szu.edu.cn/cn/people1bbd.html?30298).
 
 ## Research Interest
 
@@ -26,10 +26,14 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
   * College of Computer Science and Software Engineering,
   * Shenzhen University
   * with [Dr. Qiuzhen Lin](http://csse.szu.edu.cn/csse.szu.edu.cn/cn/people1bbd.html?30298).
+* 2021 Jul ~ Now
+  * Pos Doc
+  * College of Computer Science and Software Engineering,
+  * Shenzhen University
 
 ## Education
 
-* 2017 Sep ~
+* 2017 Sep ~ 2021 Jul
   * Ph.D.
   * Department of Computer Science
   * City University of Hong Kong
@@ -90,6 +94,9 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
   * **Qingling Zhu**, Qiuzhen Lin, Jianyong Chen, Peizhi Huang. **A gene-level hybrid crossover operator for multiobjective evolutionary algorithm.** Soft Computing and Machine Intelligence (ISCMI 2015), 20-24.
 
 ### Awards
+* Gold Price in ICAPS 2021 Huawei Competition on Dynamic Pickup And Delivery Problem, 2021 (USD \$5000)
+
+* Gold Price in EMO 2021 HUAWEI Logistics Competition, 2021 (USD \$5000)
 
 * 2019 Research Tuition Scholarship of City University of Hong Kong
 
@@ -107,4 +114,4 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
   * Applied Soft Computating
   * Swarm and Evolutionary Computation
 
-##### Last update: Dec 09, 2019
+##### Last update: Jan 06, 2022
